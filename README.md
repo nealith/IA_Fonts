@@ -12,7 +12,7 @@ This code is just given as prouf of failure, it should not be taken.
 4. Once all installation is done : call generate_fonts_ with python2, it's supposed to generate a data.csv and lot of fonts
 5. Open test_ml and uncommand "model = train..." and "save(model.... ", comment other lines in the files (exept imports of course)
 6. Once model is trained, you should have a test_model.json and test_model.h5
-7. You inverse commented lines in test_ml to have a prediction : spoiler, that will give the same resultat for all drawing you will test
+7. You inverse commented lines in test_ml to have a prediction : spoiler, that will give the same resultat for all drawing you will test (this will give you a number and a float ça can be translated in a numero of the matching font in fonts generated)
 
 Don't try to ask help from me, I'm not skilled with python, and will try to avoid it as possible
 
